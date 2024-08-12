@@ -12,7 +12,7 @@
 
 ## Installation
 
-To use ReddScan, you'll need to have Python installed along with the required libraries. (This is an ongoing project, and no requirements.txt exists) Make a Reddit API under your account, and use that information provided to fill your PRAW API information at the top of 'redditorial.py'
+To use ReddScan, you'll need to have Python installed along with the required libraries. (This is an ongoing project, and no requirements.txt exists) Make a Reddit API under your account, and use that information provided to fill out your information so the PRAW API can function, this is found at the top of 'redditorial.py'
 
 
   ```python
