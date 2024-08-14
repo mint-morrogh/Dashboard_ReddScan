@@ -17,7 +17,7 @@ from user_karma_graph import create_user_karma_graph
 from cooccurrence_graph import create_cooccurrence_graph
 from config import client_id, client_secret, user_agent
 
-SEARCH_X_SUBREDDITS = 100
+SEARCH_X_SUBREDDITS = 3
 
 # Initialize the Reddit client
 reddit = praw.Reddit(client_id=client_id,
